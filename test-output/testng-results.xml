@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-27T21:31:49 GMT+06:00" name="Default suite" finished-at="2024-12-27T21:32:21 GMT+06:00" duration-ms="32645">
+    <groups>
+    </groups>
+    <test started-at="2024-12-27T21:31:49 GMT+06:00" name="Default test" finished-at="2024-12-27T21:32:21 GMT+06:00" duration-ms="32645">
+      <class name="jenkins.Jenkins">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:jenkins.Jenkins@1165b38]" started-at="2024-12-27T21:31:49 GMT+06:00" name="setUp" finished-at="2024-12-27T21:31:54 GMT+06:00" duration-ms="5157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin()[pri:0, instance:jenkins.Jenkins@1165b38]" started-at="2024-12-27T21:31:54 GMT+06:00" name="testLogin" finished-at="2024-12-27T21:32:21 GMT+06:00" duration-ms="27101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:jenkins.Jenkins@1165b38]" started-at="2024-12-27T21:32:21 GMT+06:00" name="tearDown" finished-at="2024-12-27T21:32:21 GMT+06:00" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- jenkins.Jenkins -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
